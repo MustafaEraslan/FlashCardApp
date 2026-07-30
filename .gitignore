@@ -1,3 +1,8 @@
+# Keystore & signing secrets
+android/key.properties
+*.jks
+*.keystore
+
 # Miscellaneous
 *.class
 *.log
